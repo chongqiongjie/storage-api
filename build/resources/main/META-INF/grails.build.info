@@ -1,0 +1,6 @@
+#Tue, 27 Dec 2016 13:54:13 +0800
+
+info.app.version=0.1
+info.app.name=storage-api
+grails.env=production
+info.app.grailsVersion=3.2.1
